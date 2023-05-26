@@ -33,7 +33,7 @@ public class TransactionController {
 
     
     @PostMapping("/")
-    public ResponseEntity<?> depositMoney(@RequestBody Transaction transaction) {
+    public ResponseEntity<?> handleTransaction(@RequestBody Transaction transaction) {
         return transactionService.handleTransaction(transaction);
     }
 
