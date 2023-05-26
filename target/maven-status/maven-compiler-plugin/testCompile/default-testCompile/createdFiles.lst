@@ -1,0 +1,6 @@
+com/ega/banking/EgaBankApplicationTests.class
+com/ega/banking/util/AccountUtilTest.class
+com/ega/banking/constants/TestConstants.class
+com/ega/banking/service/TransactionServiceTest.class
+com/ega/banking/service/AccountServiceTest.class
+com/ega/banking/service/UserServiceTest.class
